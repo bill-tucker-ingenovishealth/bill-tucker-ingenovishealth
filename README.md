@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bill-tucker-ingenovishealth
-- 👀 I’m interested in python, neovim, bicycles
+- 👀 I’m interested in python, neovim, bicycles, improv theater
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on blaze
 - 📫 How to reach me bill.tucker@ingenovishealth.com
